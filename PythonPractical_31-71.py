@@ -587,7 +587,7 @@ l = [5,3,1,2,4]
 print(merge_sort(l))
 
 #OUTPUT:
-[1, 2, 3, 4, 5]
+#[1, 2, 3, 4, 5]
 
 #Python Program to handle divide by zero exception
 a = 1
